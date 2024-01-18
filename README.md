@@ -1,4 +1,4 @@
-# 🚀 Project Title: Fine-tuning BERT on Amazon Reviews Classification 📚
+# 🚀 Fine-tuning BERT on Amazon Reviews Classification 📚
 
 ## 🌟 Overview
 This project is on a mission to fine-tune a BERT (Bidirectional Encoder Representations from Transformers) model using a dataset of Amazon reviews 📝. Our quest? To predict the sentiment of reviews with a five-class classification approach! 🌈
