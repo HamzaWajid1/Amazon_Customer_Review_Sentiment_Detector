@@ -13,3 +13,18 @@ Text	One
 2	This is a confection that has been around a fe...	[0, 0, 0, 1, 0]
 3	If you are looking for the secret ingredient i...	[0, 1, 0, 0, 0]
 4	Great taffy at a great price. There was a wid...	[0, 0, 0, 0, 1]
+
+## Configuration
+### Key Variables
+- **MAX_LEN:** Maximum length of the input text.
+- **TRAIN_BATCH_SIZE:** Batch size for training.
+- **VALID_BATCH_SIZE:** Batch size for validation.
+- **EPOCHS:** Number of training epochs.
+- **LEARNING_RATE:** Learning rate for the optimizer.
+
+```python
+MAX_LEN = 200
+TRAIN_BATCH_SIZE = 8
+VALID_BATCH_SIZE = 4
+EPOCHS = 4
+LEARNING_RATE = 1e-05
